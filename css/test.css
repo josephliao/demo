@@ -1,0 +1,23 @@
+body{
+	font-family:arial;
+	font-size:14px;
+	font-weight:600;
+}
+div{
+	margin:0 auto; 
+	width:350px;
+}
+.container{
+	height:30px;
+	display:block;
+	background-color:red;
+	color:white;
+	margin:0 auto;
+	line-height:30px;
+}
+#numbers{
+	margin:0 auto; 
+	display:inline-block;
+	position:relative;	
+	padding:0 0 0 10px;
+}
